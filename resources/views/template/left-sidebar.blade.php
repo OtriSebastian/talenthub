@@ -66,6 +66,16 @@
                         </li>
                     </ul>
                 </li>
+
+                <li class="nav-item has-treeview">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon fas fa-tachometer-alt"></i>
+                        <p>
+                            Logout
+                            <i class="right fas fa-angle-left"></i>
+                        </p>
+                    </a>
+                </li> 
             </ul>
         </nav>
         <!-- /.sidebar-menu -->
